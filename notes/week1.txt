@@ -1,0 +1,3 @@
+
+marks: 90
+remarks: Q2 - no proper mapping of given column names  "
