@@ -1,0 +1,3 @@
+hw:100
+lab: 95
+provide proper explanation for your findings
